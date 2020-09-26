@@ -1,0 +1,16 @@
+.jumbotron{
+  padding: 2rem 2rem;
+}
+
+.logo {
+  height: 420px;
+}
+
+.flexbox {
+  display: flex;
+  align-items:center;
+}
+
+.box{
+  margin: 1rem 4rem;
+}
