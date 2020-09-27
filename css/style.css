@@ -1,16 +1,18 @@
-.jumbotron{
-  padding: 2rem 2rem;
-}
-
 .logo {
-  height: 420px;
+  width: 32%;
+  position: fixed;
+  right: 2rem;
+  bottom: 8%;
 }
 
-.flexbox {
-  display: flex;
-  align-items:center;
+.text-section {
+  display: inline-block;
+  width: 70%;
+  padding-right: 2rem;
 }
 
-.box{
-  margin: 1rem 4rem;
+.footer {
+position: fixed;
+bottom: 1%;
+right: 10%;
 }
