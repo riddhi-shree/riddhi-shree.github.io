@@ -1,18 +1,24 @@
 .logo {
   width: 32%;
   position: fixed;
-  right: 2rem;
-  bottom: 8%;
+  /* float: right; */
+  right: 5%;
+  bottom: 5%;
+  /* padding-bottom: 2%; */
 }
 
 .text-section {
   display: inline-block;
-  width: 70%;
+  width: 68%;
+  margin: 0;
   padding-right: 2rem;
+  /* padding-right: 2rem; */
 }
 
 .footer {
-position: fixed;
-bottom: 1%;
-right: 10%;
+position: relative;
+/* clear: right; */
+float: left;
+left: 13%;
+bottom: 0;
 }
