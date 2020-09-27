@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Winja</title>
-    <link>https://riddhi-shree.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Sep 2020 14:12:32 +0530</lastBuildDate>
     
-	<atom:link href="https://riddhi-shree.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Write-ups for Winja CTF #c0c0nXIII</title>
-      <link>https://riddhi-shree.github.io/posts/writeups-for-winja-ctf-c0c0n2020/</link>
+      <link>http://localhost:1313/posts/writeups-for-winja-ctf-c0c0n2020/</link>
       <pubDate>Sat, 26 Sep 2020 14:12:32 +0530</pubDate>
       
-      <guid>https://riddhi-shree.github.io/posts/writeups-for-winja-ctf-c0c0n2020/</guid>
+      <guid>http://localhost:1313/posts/writeups-for-winja-ctf-c0c0n2020/</guid>
       <description>&lt;p&gt;Winja successfully conducted a 3 hour, 8 levels, and 24 challenges long CTF competition on 19th September 2020, during the c0c0n 2020 virtual conference.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Winja CTF | c0c0n XIII </title>
-      <link>https://riddhi-shree.github.io/past-events/winja-ctf-19sep2020/</link>
+      <link>http://localhost:1313/past-events/winja-ctf-19sep2020/</link>
       <pubDate>Sat, 19 Sep 2020 14:12:32 +0530</pubDate>
       
-      <guid>https://riddhi-shree.github.io/past-events/winja-ctf-19sep2020/</guid>
+      <guid>http://localhost:1313/past-events/winja-ctf-19sep2020/</guid>
       <description>&lt;p&gt;Winja organised Capture-the-Flag competition for all, women and men participants, at c0c0n 2020 security and hacking virtual conference.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Winja Blogs | September 2020</title>
-      <link>https://riddhi-shree.github.io/past-events/winja-blogs-05sep2020/</link>
+      <link>http://localhost:1313/past-events/winja-blogs-05sep2020/</link>
       <pubDate>Sat, 05 Sep 2020 14:12:32 +0530</pubDate>
       
-      <guid>https://riddhi-shree.github.io/past-events/winja-blogs-05sep2020/</guid>
+      <guid>http://localhost:1313/past-events/winja-blogs-05sep2020/</guid>
       <description>&lt;p&gt;We conducted a technical blog writing workshop for women participants.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Winja Talks | August 2020</title>
-      <link>https://riddhi-shree.github.io/past-events/winja-talks-22aug2020/</link>
+      <link>http://localhost:1313/past-events/winja-talks-22aug2020/</link>
       <pubDate>Sat, 22 Aug 2020 14:12:32 +0530</pubDate>
       
-      <guid>https://riddhi-shree.github.io/past-events/winja-talks-22aug2020/</guid>
+      <guid>http://localhost:1313/past-events/winja-talks-22aug2020/</guid>
       <description>&lt;p&gt;We invited women speakers to present technical talks on a topic of their choice.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Winja CTF | Nullcon Goa</title>
-      <link>https://riddhi-shree.github.io/past-events/winja-ctf-06mar2020/</link>
+      <link>http://localhost:1313/past-events/winja-ctf-06mar2020/</link>
       <pubDate>Fri, 06 Mar 2020 14:12:32 +0530</pubDate>
       
-      <guid>https://riddhi-shree.github.io/past-events/winja-ctf-06mar2020/</guid>
+      <guid>http://localhost:1313/past-events/winja-ctf-06mar2020/</guid>
       <description>&lt;p&gt;We organised Capture-the-Flag competition for women-only participants at Nullcon (Goa) security conferece.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://riddhi-shree.github.io/upcoming-event/upcoming/</link>
+      <link>http://localhost:1313/upcoming-event/upcoming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://riddhi-shree.github.io/upcoming-event/upcoming/</guid>
+      <guid>http://localhost:1313/upcoming-event/upcoming/</guid>
       <description></description>
     </item>
     
