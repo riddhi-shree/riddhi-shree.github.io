@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Upcoming Events on Winja</title>
-    <link>http://localhost:1313/upcoming-event/</link>
+    <link>https://riddhi-shree.github.io/upcoming-event/</link>
     <description>Recent content in Upcoming Events on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/upcoming-event/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://riddhi-shree.github.io/upcoming-event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://localhost:1313/upcoming-event/upcoming/</link>
+      <link>https://riddhi-shree.github.io/upcoming-event/upcoming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/upcoming-event/upcoming/</guid>
+      <guid>https://riddhi-shree.github.io/upcoming-event/upcoming/</guid>
       <description></description>
     </item>
     
