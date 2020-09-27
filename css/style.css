@@ -7,9 +7,9 @@ left: 0;
 
 .logo {
   width: 35%;
-  margin: 0 3rem;
+  margin: 0 1rem .5rem 0;
   position: fixed;
-  bottom: 1%;
+  bottom: 1rem;
   right: 0;
 }
 
