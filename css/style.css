@@ -2,17 +2,21 @@
 position: relative;
 float: left;
 left: 0;
-padding-top: 40%;
+/* padding-top: 40%; */
 }
 
 .logo {
-  width: 40%;
-  padding-left: 3rem;
+  width: 35%;
+  margin: 0 3rem;
   position: fixed;
   bottom: 1%;
   right: 0;
 }
 
 .text-div{
-  margin-right: 2%;
+  margin-right: 2rem;
+}
+
+.text-div-bottom {
+  margin-bottom: 40%;
 }
