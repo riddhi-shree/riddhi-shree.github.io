@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ctf on Winja</title>
-    <link>http://localhost:1313/tags/ctf/</link>
+    <link>https://riddhi-shree.github.io/tags/ctf/</link>
     <description>Recent content in ctf on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Sep 2020 14:12:32 +0530</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://riddhi-shree.github.io/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Winja CTF #c0c0nXIII - A Short Tour From Inception to Execution</title>
-      <link>http://localhost:1313/posts/writeups-for-winja-ctf-c0c0n2020/</link>
+      <link>https://riddhi-shree.github.io/posts/writeups-for-winja-ctf-c0c0n2020/</link>
       <pubDate>Sat, 26 Sep 2020 14:12:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/writeups-for-winja-ctf-c0c0n2020/</guid>
+      <guid>https://riddhi-shree.github.io/posts/writeups-for-winja-ctf-c0c0n2020/</guid>
       <description>&lt;p&gt;It all began with a simple question. When Antriksh had asked us if we wanted to do something for c0c0n, we said &amp;ldquo;Yes&amp;rdquo; even before deciding what exactly it was that we wanted to do.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Winja CTF | c0c0n XIII </title>
-      <link>http://localhost:1313/past-events/winja-ctf-19sep2020/</link>
+      <link>https://riddhi-shree.github.io/past-events/winja-ctf-19sep2020/</link>
       <pubDate>Sat, 19 Sep 2020 14:12:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/past-events/winja-ctf-19sep2020/</guid>
+      <guid>https://riddhi-shree.github.io/past-events/winja-ctf-19sep2020/</guid>
       <description>&lt;p&gt;Winja organised Capture-the-Flag competition for all, women and men participants, at c0c0n 2020 security and hacking virtual conference.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Winja CTF | Nullcon Goa</title>
-      <link>http://localhost:1313/past-events/winja-ctf-06mar2020/</link>
+      <link>https://riddhi-shree.github.io/past-events/winja-ctf-06mar2020/</link>
       <pubDate>Fri, 06 Mar 2020 14:12:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/past-events/winja-ctf-06mar2020/</guid>
+      <guid>https://riddhi-shree.github.io/past-events/winja-ctf-06mar2020/</guid>
       <description>&lt;p&gt;Capture-the-Flag competition was organised for women-only participants at Nullcon Goa 2020 security conferece.&lt;/p&gt;</description>
     </item>
     

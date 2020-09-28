@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>talks on Winja</title>
-    <link>http://localhost:1313/tags/talks/</link>
+    <link>https://riddhi-shree.github.io/tags/talks/</link>
     <description>Recent content in talks on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Sep 2020 14:12:32 +0530</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/talks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://riddhi-shree.github.io/tags/talks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Winja Talks | 03 October 2020</title>
-      <link>http://localhost:1313/upcoming-event/upcoming/</link>
+      <link>https://riddhi-shree.github.io/upcoming-event/upcoming/</link>
       <pubDate>Sun, 27 Sep 2020 14:12:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/upcoming-event/upcoming/</guid>
+      <guid>https://riddhi-shree.github.io/upcoming-event/upcoming/</guid>
       <description>&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/img/upcoming/Winaj_talks_3rd_Octmain-100.jpg&#34; width=&#34;40%&#34;/&gt; 
+    &lt;img src=&#34;https://riddhi-shree.github.io/img/upcoming/Winaj_talks_3rd_Octmain-100.jpg&#34; width=&#34;40%&#34;/&gt; 
 &lt;/figure&gt;
 
 Regsiter for the event here &amp;ndash;&amp;gt; &lt;a href=&#34;https://rb.gy/vhwelr&#34;&gt;https://rb.gy/vhwelr&lt;/a&gt;&lt;/p&gt;</description>
@@ -26,10 +26,10 @@ Regsiter for the event here &amp;ndash;&amp;gt; &lt;a href=&#34;https://rb.gy/vh
     
     <item>
       <title>Winja Talks | August 2020</title>
-      <link>http://localhost:1313/past-events/winja-talks-22aug2020/</link>
+      <link>https://riddhi-shree.github.io/past-events/winja-talks-22aug2020/</link>
       <pubDate>Sat, 22 Aug 2020 14:12:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/past-events/winja-talks-22aug2020/</guid>
+      <guid>https://riddhi-shree.github.io/past-events/winja-talks-22aug2020/</guid>
       <description>&lt;p&gt;We invited women speakers to present technical talks on a topic of their choice.&lt;/p&gt;</description>
     </item>
     
