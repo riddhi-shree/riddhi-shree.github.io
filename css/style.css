@@ -42,8 +42,8 @@ padding-top: 10%;
 }
 
 .small_img{
-  width: 10%;
+  width: 5rem;
   display: inline-block;
   margin: auto;
-  padding: 0 0.5rem;
+  padding: 0 5px;
 }

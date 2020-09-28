@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Past Events on Winja</title>
-    <link>http://localhost:1313/past-events/</link>
+    <link>https://riddhi-shree.github.io/past-events/</link>
     <description>Recent content in Past Events on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Sep 2020 14:12:32 +0530</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/past-events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://riddhi-shree.github.io/past-events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Winja CTF | c0c0n XIII </title>
-      <link>http://localhost:1313/past-events/winja-ctf-19sep2020/</link>
+      <link>https://riddhi-shree.github.io/past-events/winja-ctf-19sep2020/</link>
       <pubDate>Sat, 19 Sep 2020 14:12:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/past-events/winja-ctf-19sep2020/</guid>
+      <guid>https://riddhi-shree.github.io/past-events/winja-ctf-19sep2020/</guid>
       <description>&lt;p&gt;Winja organised Capture-the-Flag competition for all, women and men participants, at c0c0n 2020 security and hacking virtual conference.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Winja Blogs | September 2020</title>
-      <link>http://localhost:1313/past-events/winja-blogs-05sep2020/</link>
+      <link>https://riddhi-shree.github.io/past-events/winja-blogs-05sep2020/</link>
       <pubDate>Sat, 05 Sep 2020 14:12:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/past-events/winja-blogs-05sep2020/</guid>
+      <guid>https://riddhi-shree.github.io/past-events/winja-blogs-05sep2020/</guid>
       <description>&lt;p&gt;We conducted a technical blog writing workshop for women participants.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Winja Talks | August 2020</title>
-      <link>http://localhost:1313/past-events/winja-talks-22aug2020/</link>
+      <link>https://riddhi-shree.github.io/past-events/winja-talks-22aug2020/</link>
       <pubDate>Sat, 22 Aug 2020 14:12:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/past-events/winja-talks-22aug2020/</guid>
+      <guid>https://riddhi-shree.github.io/past-events/winja-talks-22aug2020/</guid>
       <description>&lt;p&gt;We invited women speakers to present technical talks on a topic of their choice.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Winja CTF | Nullcon Goa</title>
-      <link>http://localhost:1313/past-events/winja-ctf-06mar2020/</link>
+      <link>https://riddhi-shree.github.io/past-events/winja-ctf-06mar2020/</link>
       <pubDate>Fri, 06 Mar 2020 14:12:32 +0530</pubDate>
       
-      <guid>http://localhost:1313/past-events/winja-ctf-06mar2020/</guid>
+      <guid>https://riddhi-shree.github.io/past-events/winja-ctf-06mar2020/</guid>
       <description>&lt;p&gt;Capture-the-Flag competition was organised for women-only participants at Nullcon Goa 2020 security conferece.&lt;/p&gt;</description>
     </item>
     
