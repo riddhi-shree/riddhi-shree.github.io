@@ -2,7 +2,7 @@
 position: relative;
 float: left;
 left: 0;
-/* padding-top: 40%; */
+padding-top: 10%;
 }
 
 .logo {
@@ -19,4 +19,31 @@ left: 0;
 
 .text-div-bottom {
   margin-bottom: 40%;
+}
+
+.nullcon_logo {
+  width: 30%;
+  margin: auto;
+  position: relative;
+  bottom: 1rem;
+}
+
+.center{
+  width: 80%;
+  margin: auto;
+  position: relative;
+  bottom: 1rem;
+}
+
+.sponsor {
+  width: 30%;
+  display: inline-block;
+  padding: 0 2rem;
+}
+
+.small_img{
+  width: 10%;
+  display: inline-block;
+  margin: auto;
+  padding: 0 0.5rem;
 }
