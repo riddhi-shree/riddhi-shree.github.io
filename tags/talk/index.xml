@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Upcoming Events on Winja</title>
-    <link>https://www.winja.site/upcoming-event/</link>
-    <description>Recent content in Upcoming Events on Winja</description>
+    <title>talk on Winja</title>
+    <link>https://www.winja.site/tags/talk/</link>
+    <description>Recent content in talk on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Sep 2020 14:12:32 +0530</lastBuildDate>
     
-	<atom:link href="https://www.winja.site/upcoming-event/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.winja.site/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,6 +22,15 @@
 &lt;/figure&gt;
 
 Regsiter for the event here &amp;ndash;&amp;gt; &lt;a href=&#34;https://rb.gy/vhwelr&#34;&gt;https://rb.gy/vhwelr&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Winja Talks | 22 August 2020</title>
+      <link>https://www.winja.site/past-events/winja-talks-22aug2020/</link>
+      <pubDate>Sat, 22 Aug 2020 14:12:32 +0530</pubDate>
+      
+      <guid>https://www.winja.site/past-events/winja-talks-22aug2020/</guid>
+      <description>&lt;p&gt;We invited women speakers to present technical talks on a topic of their choice.&lt;/p&gt;</description>
     </item>
     
   </channel>
