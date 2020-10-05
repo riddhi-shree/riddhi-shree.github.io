@@ -6,33 +6,42 @@
     <description>Recent content in Tags on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2020 14:12:32 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2020 14:12:32 +0530</lastBuildDate>
     
 	<atom:link href="https://www.winja.site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>coming soon</title>
+      <link>https://www.winja.site/tags/coming-soon/</link>
+      <pubDate>Mon, 05 Oct 2020 14:12:32 +0530</pubDate>
+      
+      <guid>https://www.winja.site/tags/coming-soon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recent</title>
+      <link>https://www.winja.site/tags/recent/</link>
+      <pubDate>Sat, 03 Oct 2020 14:12:32 +0530</pubDate>
+      
+      <guid>https://www.winja.site/tags/recent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>talk</title>
       <link>https://www.winja.site/tags/talk/</link>
-      <pubDate>Sat, 26 Sep 2020 14:12:32 +0530</pubDate>
+      <pubDate>Sat, 03 Oct 2020 14:12:32 +0530</pubDate>
       
       <guid>https://www.winja.site/tags/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>upcoming</title>
-      <link>https://www.winja.site/tags/upcoming/</link>
-      <pubDate>Sat, 26 Sep 2020 14:12:32 +0530</pubDate>
-      
-      <guid>https://www.winja.site/tags/upcoming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>winja</title>
       <link>https://www.winja.site/tags/winja/</link>
-      <pubDate>Sat, 26 Sep 2020 14:12:32 +0530</pubDate>
+      <pubDate>Sat, 03 Oct 2020 14:12:32 +0530</pubDate>
       
       <guid>https://www.winja.site/tags/winja/</guid>
       <description></description>
