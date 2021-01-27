@@ -4,12 +4,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/css/style.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
+    
+    
+    
+    <title>Winja | Registration</title>
 
+    <link href="/css/registration.css" rel="stylesheet">
     
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+    integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     
-    <title>Winja | talks</title>
 </head><body><div id="nav-border" class="container">
     <nav id="navbar" class="navbar navbar-expand-lg navbar-light">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -29,15 +36,6 @@
                     Home
                 </a>
                 
-                <a class="nav-link" href="/posts/">
-                    
-                    
-                    <i data-feather="pen-tool"></i> 
-                    
-                    
-                    Posts
-                </a>
-                
                 <a class="nav-link" href="/upcoming-event/">
                     
                     
@@ -45,6 +43,15 @@
                     
                     
                     Upcoming
+                </a>
+                
+                <a class="nav-link" href="/live-feed/">
+                    
+                    
+                    <i data-feather="twitter"></i> 
+                    
+                    
+                    Live on Twitter!
                 </a>
                 
                 <a class="nav-link" href="/past-events/">
@@ -56,62 +63,50 @@
                     Past Events
                 </a>
                 
+                <a class="nav-link" href="/tags/">
+                    
+                    
+                    <i data-feather="tag"></i> 
+                    
+                    
+                    Tags
+                </a>
+                
             </ul>
         </div>
     </nav>
+    <br/>
 </div><div id="content" class="container">
-<h1>talks</h1>
-
-<p>
-    <h3><a class="title" href="/upcoming-event/upcoming/">Winja Talks | 03 October 2020</a></h3>
-    
+<h1>Registration</h1>
 
 <i data-feather="calendar"></i>
-<time datetime="2020-09-27">Sep 27, 2020</time>
+<time datetime="2020-11-17T11:00:56&#43;05:30">Tuesday, Nov 17, 2020</time>
 
-<i data-feather="tag"></i>
-
-
-<a class="btn btn-sm btn-outline-dark tag-btn" href="http://localhost:1313/tags/winja">winja</a>
+<br><br>
 
 
-<a class="btn btn-sm btn-outline-dark tag-btn" href="http://localhost:1313/tags/talks">talks</a>
+
+    <form target="/registration" class="form-signin" method="POST">
+        <img class="mb-4" src="images/winja-blogs.png" alt="" width="80%">
+        <!-- <h1 class="h3 mb-3 font-weight-normal">Winja Blogs</h1> -->
+        <input type="text" name="fname" id="firstName" class="form-control" style="width:50%;margin-bottom: -1px;border-bottom-right-radius: 0;border-bottom-left-radius: 0;" placeholder="First Name" required autofocus>
+        <input type="email" name="emailid" id="emailID" class="form-control" style="width:50%;border-radius: 0;margin-bottom: -1px;" placeholder="Email ID" required>
+        <input type="text" name="twitterid" id="twitterID" class="form-control" style="width:50%;border-radius: 0;margin-bottom: -1px;" placeholder="Twitter ID">
+        <input type="text" name="discordid" id="discordID" class="form-control" style="width:50%;margin-bottom: 10px;border-top-left-radius: 0;border-top-right-radius: 0;" placeholder="Discord ID">
+        <div class="checkbox mb-3 text-muted">
+            <label>
+              <input type="checkbox" value="remember-me" checked="true"> Get notified about future events
+            </label>
+          </div>
+        <input class="btn btn-lg btn-primary btn-block" style="width:50%;" value="REGISTER" type="submit">
+    </form>
 
 
-    <a class="summary" href="/upcoming-event/upcoming/">
-        <p><p><figure>
-    <img src="/img/upcoming/Winaj_talks_3rd_Octmain-100.jpg" width="40%"/> 
-</figure>
-
-Regsiter for the event here &ndash;&gt; <a href="https://rb.gy/vhwelr">https://rb.gy/vhwelr</a></p></p>
-    </a>
-</p>
-
-<p>
-    <h3><a class="title" href="/past-events/winja-talks-22aug2020/">Winja Talks | August 2020</a></h3>
-    
-
-<i data-feather="calendar"></i>
-<time datetime="2020-08-22">Aug 22, 2020</time>
-
-<i data-feather="tag"></i>
-
-
-<a class="btn btn-sm btn-outline-dark tag-btn" href="http://localhost:1313/tags/winja">winja</a>
-
-
-<a class="btn btn-sm btn-outline-dark tag-btn" href="http://localhost:1313/tags/talks">talks</a>
-
-
-    <a class="summary" href="/past-events/winja-talks-22aug2020/">
-        <p><p>We invited women speakers to present technical talks on a topic of their choice.</p></p>
-    </a>
-</p>
 
 
     </div>
     <div class="container"><div class="footer">
-    <p style="display: inline-block;">&copy; Winja 2020 | </p>
+    <p style="display: inline-block;">&copy; Winja 2021 | </p>
     <a href="https://nullcon.net/website/" target="_blank"><img class="nullcon_logo small_img" src="/img/nullcon/nullcon_logo.png"></a>
     <p style="display: inline-block;"> initiative</p>
 </div>
@@ -127,6 +122,6 @@ Regsiter for the event here &ndash;&gt; <a href="https://rb.gy/vhwelr">https://r
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
-<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10&v=2"></' + 'script>')</script></body>
+</body>
 
 </html>

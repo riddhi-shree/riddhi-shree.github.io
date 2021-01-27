@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Winja</title>
@@ -6,17 +6,44 @@
     <description>Recent content in Tags on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2020 14:12:32 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jan 2021 14:12:32 +0530</lastBuildDate>
     
 	<atom:link href="https://www.winja.site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>coming soon</title>
-      <link>https://www.winja.site/tags/coming-soon/</link>
-      <pubDate>Mon, 05 Oct 2020 14:12:32 +0530</pubDate>
+      <title>2021</title>
+      <link>https://www.winja.site/tags/2021/</link>
+      <pubDate>Tue, 26 Jan 2021 14:12:32 +0530</pubDate>
       
-      <guid>https://www.winja.site/tags/coming-soon/</guid>
+      <guid>https://www.winja.site/tags/2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ctf</title>
+      <link>https://www.winja.site/tags/ctf/</link>
+      <pubDate>Tue, 26 Jan 2021 14:12:32 +0530</pubDate>
+      
+      <guid>https://www.winja.site/tags/ctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nullcon</title>
+      <link>https://www.winja.site/tags/nullcon/</link>
+      <pubDate>Tue, 26 Jan 2021 14:12:32 +0530</pubDate>
+      
+      <guid>https://www.winja.site/tags/nullcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>upcoming</title>
+      <link>https://www.winja.site/tags/upcoming/</link>
+      <pubDate>Tue, 26 Jan 2021 14:12:32 +0530</pubDate>
+      
+      <guid>https://www.winja.site/tags/upcoming/</guid>
       <description></description>
     </item>
     
@@ -66,15 +93,6 @@
     </item>
     
     <item>
-      <title>ctf</title>
-      <link>https://www.winja.site/tags/ctf/</link>
-      <pubDate>Sat, 19 Sep 2020 14:12:32 +0530</pubDate>
-      
-      <guid>https://www.winja.site/tags/ctf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>blog</title>
       <link>https://www.winja.site/tags/blog/</link>
       <pubDate>Sat, 05 Sep 2020 14:12:32 +0530</pubDate>
@@ -84,11 +102,11 @@
     </item>
     
     <item>
-      <title>nullcon</title>
-      <link>https://www.winja.site/tags/nullcon/</link>
-      <pubDate>Fri, 06 Mar 2020 14:12:32 +0530</pubDate>
+      <title>06/March/2021</title>
+      <link>https://www.winja.site/tags/06/march/2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.winja.site/tags/nullcon/</guid>
+      <guid>https://www.winja.site/tags/06/march/2021/</guid>
       <description></description>
     </item>
     

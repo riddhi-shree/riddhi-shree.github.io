@@ -1,30 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.winja.site/tags/coming-soon/</loc>
-    <lastmod>2020-10-05T14:12:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.winja.site/tags/</loc>
-    <lastmod>2020-10-05T14:12:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.winja.site/upcoming-event/</loc>
-    <lastmod>2020-10-05T14:12:32+05:30</lastmod>
+    <loc>https://www.winja.site/live-feed/</loc>
+    <lastmod>2021-01-27T12:37:18+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.winja.site/</loc>
-    <lastmod>2020-10-05T14:12:32+05:30</lastmod>
+    <lastmod>2021-01-27T12:37:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/2021/</loc>
+    <lastmod>2021-01-26T14:12:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/ctf/</loc>
+    <lastmod>2021-01-26T14:12:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/nullcon/</loc>
+    <lastmod>2021-01-26T14:12:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/</loc>
+    <lastmod>2021-01-26T14:12:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/upcoming/</loc>
+    <lastmod>2021-01-26T14:12:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/upcoming-event/</loc>
+    <lastmod>2021-01-26T14:12:32+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.winja.site/upcoming-event/upcoming/</loc>
-    <lastmod>2020-10-05T14:12:32+05:30</lastmod>
+    <lastmod>2021-01-26T14:12:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/registration/</loc>
+    <lastmod>2020-11-17T11:00:56+05:30</lastmod>
   </url>
   
   <url>
@@ -63,11 +88,6 @@
   </url>
   
   <url>
-    <loc>https://www.winja.site/tags/ctf/</loc>
-    <lastmod>2020-09-19T14:12:32+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.winja.site/past-events/winja-ctf-19sep2020/</loc>
     <lastmod>2020-09-19T14:12:32+05:30</lastmod>
   </url>
@@ -88,13 +108,12 @@
   </url>
   
   <url>
-    <loc>https://www.winja.site/tags/nullcon/</loc>
+    <loc>https://www.winja.site/past-events/winja-ctf-06mar2020/</loc>
     <lastmod>2020-03-06T14:12:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.winja.site/past-events/winja-ctf-06mar2020/</loc>
-    <lastmod>2020-03-06T14:12:32+05:30</lastmod>
+    <loc>https://www.winja.site/tags/06/march/2021/</loc>
   </url>
   
   <url>

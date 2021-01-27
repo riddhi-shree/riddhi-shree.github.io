@@ -25,16 +25,20 @@ margin-bottom: 10rem;
 
 .nullcon_logo {
   width: 30%;
-  margin: auto;
+  margin: 2rem auto;
   position: relative;
-  bottom: 1rem;
 }
 
 .center{
   width: 80%;
-  margin: auto;
+  margin: 2rem auto;
   position: relative;
-  bottom: 1rem;
+}
+
+.center-heading{
+  width: 80%;
+  margin: 2rem auto;
+  position: relative;
 }
 
 .sponsor {
