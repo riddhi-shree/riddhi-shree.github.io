@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ctf4g on Winja</title>
+    <link>https://www.winja.site/tags/ctf4g/</link>
+    <description>Recent content in ctf4g on Winja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Dec 2020 23:24:18 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.winja.site/tags/ctf4g/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Winja Meets CTF for GIRLS (CTF4G) | SECCON 2020</title>
+      <link>https://www.winja.site/past-events/winja-meets-ctf4g-19dec2020/</link>
+      <pubDate>Sat, 19 Dec 2020 23:24:18 +0530</pubDate>
+      
+      <guid>https://www.winja.site/past-events/winja-meets-ctf4g-19dec2020/</guid>
+      <description>&lt;p&gt;Winja CTF (India) and CTF for GIRLS (Japan) representatives had a conversation and exchange of thoughts during the SECCON 2020 online conference.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

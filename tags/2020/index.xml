@@ -6,10 +6,19 @@
     <description>Recent content in 2020 on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2020 14:12:32 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 19 Dec 2020 23:24:18 +0530</lastBuildDate>
     
 	<atom:link href="https://www.winja.site/tags/2020/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Winja Meets CTF for GIRLS (CTF4G) | SECCON 2020</title>
+      <link>https://www.winja.site/past-events/winja-meets-ctf4g-19dec2020/</link>
+      <pubDate>Sat, 19 Dec 2020 23:24:18 +0530</pubDate>
+      
+      <guid>https://www.winja.site/past-events/winja-meets-ctf4g-19dec2020/</guid>
+      <description>&lt;p&gt;Winja CTF (India) and CTF for GIRLS (Japan) representatives had a conversation and exchange of thoughts during the SECCON 2020 online conference.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Winja CTF | c0c0n XIII </title>
