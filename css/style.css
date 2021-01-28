@@ -29,6 +29,12 @@ margin-bottom: 10rem;
   position: relative;
 }
 
+.nullcon_logo_2021 {
+  width: 20%;
+  margin: 1rem auto;
+  position: relative;
+}
+
 .center{
   width: 80%;
   margin: 2rem auto;
@@ -39,6 +45,12 @@ margin-bottom: 10rem;
   width: 30%;
   display: inline-block;
   margin: 0 2rem 0 0;
+}
+
+.sponsor_sans {
+  width: 55%;
+  display: inline-block;
+  margin: auto;
 }
 
 .small_img{
