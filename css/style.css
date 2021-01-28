@@ -35,12 +35,6 @@ margin-bottom: 10rem;
   position: relative;
 }
 
-.center-heading{
-  width: 80%;
-  margin: 2rem auto;
-  position: relative;
-}
-
 .sponsor {
   width: 30%;
   display: inline-block;
@@ -52,4 +46,12 @@ margin-bottom: 10rem;
   margin: 0 0.2rem;
   padding: 0 1px;
   display: inline-block;
+}
+
+.medium_img{
+  width: 20rem;
+  margin: 1rem 1rem 0 0;
+  padding: 0 1px;
+  display: inline-block;
+  border-radius: 25px;
 }
