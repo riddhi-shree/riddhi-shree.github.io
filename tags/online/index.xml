@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nullcon on Winja</title>
-    <link>https://www.winja.site/tags/nullcon/</link>
-    <description>Recent content in nullcon on Winja</description>
+    <title>online on Winja</title>
+    <link>https://www.winja.site/tags/online/</link>
+    <description>Recent content in online on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Mar 2021 14:12:32 +0530</lastBuildDate>
     
-	<atom:link href="https://www.winja.site/tags/nullcon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.winja.site/tags/online/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>&lt;figure&gt;
     &lt;img src=&#34;https://www.winja.site/img/nullcon2021/winjactf2021_nullcon_banner2.png&#34; width=&#34;100%&#34;/&gt; 
 &lt;/figure&gt;</description>
-    </item>
-    
-    <item>
-      <title>Winja CTF | Nullcon Goa</title>
-      <link>https://www.winja.site/past-events/winja-ctf-06mar2020/</link>
-      <pubDate>Fri, 06 Mar 2020 14:12:32 +0530</pubDate>
-      
-      <guid>https://www.winja.site/past-events/winja-ctf-06mar2020/</guid>
-      <description>&lt;p&gt;Capture-the-Flag competition was organised for women-only participants at Nullcon Goa 2020 security conferece.&lt;/p&gt;</description>
     </item>
     
   </channel>

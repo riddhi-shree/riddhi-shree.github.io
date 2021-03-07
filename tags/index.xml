@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2021 14:12:32 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 14:12:32 +0530</lastBuildDate>
     
 	<atom:link href="https://www.winja.site/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>2021</title>
       <link>https://www.winja.site/tags/2021/</link>
-      <pubDate>Tue, 26 Jan 2021 14:12:32 +0530</pubDate>
+      <pubDate>Sat, 06 Mar 2021 14:12:32 +0530</pubDate>
       
       <guid>https://www.winja.site/tags/2021/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>ctf</title>
       <link>https://www.winja.site/tags/ctf/</link>
-      <pubDate>Tue, 26 Jan 2021 14:12:32 +0530</pubDate>
+      <pubDate>Sat, 06 Mar 2021 14:12:32 +0530</pubDate>
       
       <guid>https://www.winja.site/tags/ctf/</guid>
       <description></description>
@@ -32,9 +32,18 @@
     <item>
       <title>nullcon</title>
       <link>https://www.winja.site/tags/nullcon/</link>
-      <pubDate>Tue, 26 Jan 2021 14:12:32 +0530</pubDate>
+      <pubDate>Sat, 06 Mar 2021 14:12:32 +0530</pubDate>
       
       <guid>https://www.winja.site/tags/nullcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>online</title>
+      <link>https://www.winja.site/tags/online/</link>
+      <pubDate>Sat, 06 Mar 2021 14:12:32 +0530</pubDate>
+      
+      <guid>https://www.winja.site/tags/online/</guid>
       <description></description>
     </item>
     
