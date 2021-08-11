@@ -6,18 +6,29 @@
     <description>Recent content in Upcoming Events on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2021 14:12:32 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://www.winja.site/upcoming-event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>What&#39;s Next!</title>
+      <title>Building Resilient Communities | Shivani Singh | 26 August 2021</title>
       <link>https://www.winja.site/upcoming-event/upcoming/</link>
-      <pubDate>Tue, 26 Jan 2021 14:12:32 +0530</pubDate>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0530</pubDate>
       
       <guid>https://www.winja.site/upcoming-event/upcoming/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;a target=&#34;blank&#34; href=&#34;https://hardwear-io.zoom.us/meeting/register/tZMtdOqpqjMuEtJRP3viEqWG56ky_3fS4VV1&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://www.winja.site/img/upcoming/click_to_register.svg&#34; width=&#34;30%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;/a&gt;
+&lt;a target=&#34;blank&#34; href=&#34;https://hardwear-io.zoom.us/meeting/register/tZMtdOqpqjMuEtJRP3viEqWG56ky_3fS4VV1&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://www.winja.site/img/upcoming/WinjaTalks_26AUG2021.svg&#34; width=&#34;100%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;/a&gt;</description>
     </item>
     
   </channel>

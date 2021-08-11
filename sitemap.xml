@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.winja.site/upcoming-event/upcoming/</loc>
+    <lastmod>2021-08-12T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/</loc>
+    <lastmod>2021-08-12T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/upcoming/</loc>
+    <lastmod>2021-08-12T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/upcoming-event/</loc>
+    <lastmod>2021-08-12T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/2021/</loc>
     <lastmod>2021-03-06T14:12:32+05:30</lastmod>
   </url>
@@ -28,13 +48,43 @@
   </url>
   
   <url>
-    <loc>https://www.winja.site/tags/</loc>
+    <loc>https://www.winja.site/past-events/winja-ctf-06mar2021/</loc>
     <lastmod>2021-03-06T14:12:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.winja.site/past-events/winja-ctf-06mar2021/</loc>
-    <lastmod>2021-03-06T14:12:32+05:30</lastmod>
+    <loc>https://www.winja.site/tags/arp/</loc>
+    <lastmod>2021-01-28T14:12:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/arp-scan/</loc>
+    <lastmod>2021-01-28T14:12:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/technical-blogs/arp-scan/</loc>
+    <lastmod>2021-01-28T14:12:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/blog/</loc>
+    <lastmod>2021-01-28T14:12:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/kali-tools/</loc>
+    <lastmod>2021-01-28T14:12:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/scan/</loc>
+    <lastmod>2021-01-28T14:12:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/technical-blogs/</loc>
+    <lastmod>2021-01-28T14:12:32+05:30</lastmod>
   </url>
   
   <url>
@@ -45,21 +95,6 @@
   <url>
     <loc>https://www.winja.site/</loc>
     <lastmod>2021-01-27T12:37:18+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.winja.site/tags/upcoming/</loc>
-    <lastmod>2021-01-26T14:12:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.winja.site/upcoming-event/</loc>
-    <lastmod>2021-01-26T14:12:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.winja.site/upcoming-event/upcoming/</loc>
-    <lastmod>2021-01-26T14:12:32+05:30</lastmod>
   </url>
   
   <url>
@@ -115,11 +150,6 @@
   <url>
     <loc>https://www.winja.site/past-events/winja-ctf-19sep2020/</loc>
     <lastmod>2020-09-19T14:12:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.winja.site/tags/blog/</loc>
-    <lastmod>2020-09-05T14:12:32+05:30</lastmod>
   </url>
   
   <url>
