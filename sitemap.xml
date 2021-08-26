@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.winja.site/upcoming-event/upcoming/</loc>
-    <lastmod>2021-08-12T00:00:00+05:30</lastmod>
+    <loc>https://www.winja.site/tags/2021/</loc>
+    <lastmod>2021-08-26T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/past-events/</loc>
+    <lastmod>2021-08-26T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.winja.site/tags/</loc>
+    <lastmod>2021-08-26T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/talk/</loc>
+    <lastmod>2021-08-26T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/winja/</loc>
+    <lastmod>2021-08-26T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/past-events/winja-talks-26aug2021/</loc>
+    <lastmod>2021-08-26T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/upcoming-event/upcoming/</loc>
     <lastmod>2021-08-12T00:00:00+05:30</lastmod>
   </url>
   
@@ -23,11 +48,6 @@
   </url>
   
   <url>
-    <loc>https://www.winja.site/tags/2021/</loc>
-    <lastmod>2021-03-06T14:12:32+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.winja.site/tags/ctf/</loc>
     <lastmod>2021-03-06T14:12:32+05:30</lastmod>
   </url>
@@ -39,11 +59,6 @@
   
   <url>
     <loc>https://www.winja.site/tags/online/</loc>
-    <lastmod>2021-03-06T14:12:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.winja.site/past-events/</loc>
     <lastmod>2021-03-06T14:12:32+05:30</lastmod>
   </url>
   
@@ -78,11 +93,6 @@
   </url>
   
   <url>
-    <loc>https://www.winja.site/tags/winja/</loc>
-    <lastmod>2020-12-19T23:24:18+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.winja.site/past-events/winja-meets-ctf4g-19dec2020/</loc>
     <lastmod>2020-12-19T23:24:18+05:30</lastmod>
   </url>
@@ -94,11 +104,6 @@
   
   <url>
     <loc>https://www.winja.site/tags/recent/</loc>
-    <lastmod>2020-10-03T14:12:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.winja.site/tags/talk/</loc>
     <lastmod>2020-10-03T14:12:32+05:30</lastmod>
   </url>
   
