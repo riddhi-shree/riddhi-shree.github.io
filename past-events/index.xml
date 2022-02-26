@@ -6,10 +6,64 @@
     <description>Recent content in Past Events on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Nov 2021 16:05:31 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 26 Feb 2022 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://www.winja.site/past-events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Winja Unplugged | 26 February 2022</title>
+      <link>https://www.winja.site/past-events/winja-unplugged-26feb2022/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.winja.site/past-events/winja-unplugged-26feb2022/</guid>
+      <description>&lt;p&gt;&amp;ldquo;What is Cyber Threat Intelligence&amp;rdquo; by Rishika Desai.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Winja Unplugged | 19 February 2022</title>
+      <link>https://www.winja.site/past-events/winja-unplugged-19feb2022/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.winja.site/past-events/winja-unplugged-19feb2022/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Android Pentesting&amp;rdquo; by Shreyal Jain.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Winja Unplugged | 05 February 2022</title>
+      <link>https://www.winja.site/past-events/winja-unplugged-05feb2022/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.winja.site/past-events/winja-unplugged-05feb2022/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Introduction to Threat Modelling&amp;rdquo; by Siddhant Chouhan.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Winja Unplugged | 29 January 2022</title>
+      <link>https://www.winja.site/past-events/winja-unplugged-29jan2022/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.winja.site/past-events/winja-unplugged-29jan2022/</guid>
+      <description>&lt;p&gt;&amp;ldquo;CVE-2018-9206 Workshop&amp;rdquo; by Sanjay Das.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Winja Unplugged | 22 January 2022</title>
+      <link>https://www.winja.site/past-events/winja-unplugged-22jan2022/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.winja.site/past-events/winja-unplugged-22jan2022/</guid>
+      <description>&lt;p&gt;&amp;ldquo;sqlmap: Dumb tool? Smart scans.&amp;rdquo; by Sanjay Das.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Winja Talks | 30 November 2021</title>
+      <link>https://www.winja.site/past-events/winja-talks-30nov2021/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.winja.site/past-events/winja-talks-30nov2021/</guid>
+      <description>&lt;p&gt;&amp;ldquo;AI vs. Pandemic - The Fine Line Between Protecting Lives and Privacy Intrusion in the times of Global Pandemic&amp;rdquo; by Sneha Banerjee.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Winja CTF | c0c0n 2021</title>

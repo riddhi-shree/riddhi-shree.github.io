@@ -6,15 +6,42 @@
     <description>Recent content in Tags on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Nov 2021 16:05:31 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 26 Feb 2022 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://www.winja.site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>2022</title>
+      <link>https://www.winja.site/tags/2022/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.winja.site/tags/2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://www.winja.site/tags/talk/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.winja.site/tags/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>winja</title>
+      <link>https://www.winja.site/tags/winja/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.winja.site/tags/winja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2021</title>
       <link>https://www.winja.site/tags/2021/</link>
-      <pubDate>Fri, 12 Nov 2021 16:05:31 +0530</pubDate>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0530</pubDate>
       
       <guid>https://www.winja.site/tags/2021/</guid>
       <description></description>
@@ -44,24 +71,6 @@
       <pubDate>Fri, 12 Nov 2021 16:05:31 +0530</pubDate>
       
       <guid>https://www.winja.site/tags/online/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>winja</title>
-      <link>https://www.winja.site/tags/winja/</link>
-      <pubDate>Fri, 12 Nov 2021 16:05:31 +0530</pubDate>
-      
-      <guid>https://www.winja.site/tags/winja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://www.winja.site/tags/talk/</link>
-      <pubDate>Thu, 09 Sep 2021 00:00:00 +0530</pubDate>
-      
-      <guid>https://www.winja.site/tags/talk/</guid>
       <description></description>
     </item>
     
