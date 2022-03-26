@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wicked6 on Winja</title>
+    <link>https://www.winja.site/tags/wicked6/</link>
+    <description>Recent content in wicked6 on Winja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Mar 2022 14:12:32 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.winja.site/tags/wicked6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Winja @ Wicked6 Cyber Games</title>
+      <link>https://www.winja.site/past-events/winja-ctf-wicked6-24mar2022/</link>
+      <pubDate>Thu, 24 Mar 2022 14:12:32 +0530</pubDate>
+      
+      <guid>https://www.winja.site/past-events/winja-ctf-wicked6-24mar2022/</guid>
+      <description>&lt;p&gt;Three talks, two interviews, and 1 CTF event was Winja&amp;rsquo;s contribution for Wicked6 Cyber Games - 2022 Women&amp;rsquo;s Globa Cyber League.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

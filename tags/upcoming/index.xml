@@ -6,30 +6,47 @@
     <description>Recent content in upcoming on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://www.winja.site/tags/upcoming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Winja CTF | c0c0n 2021 | 12 November 2021</title>
+      <title>Winja CTF | Nullcon Berlin Edition | 09 April 2022</title>
       <link>https://www.winja.site/upcoming-event/upcoming/</link>
-      <pubDate>Thu, 12 Aug 2021 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0530</pubDate>
       
       <guid>https://www.winja.site/upcoming-event/upcoming/</guid>
       <description>&lt;a target=&#34;blank&#34; href=&#34;https://ctf.winja.site/register&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://www.winja.site/img/upcoming/click_to_register.svg&#34; width=&#34;30%&#34;/&gt; 
+    &lt;img src=&#34;https://www.winja.site/img/upcoming/click_to_register.svg&#34; width=&#34;30%&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;https://ctf.winja.site/&lt;/h4&gt;
+        &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;/a&gt;
 &lt;a target=&#34;blank&#34; href=&#34;https://ctf.winja.site/register&#34;&gt;
-&lt;!-- &lt;figure&gt;
+	&lt;!-- &lt;figure&gt;
     &lt;img src=&#34;https://www.winja.site/img/c0c0n2021/winjaCTF_1200x628.jpg&#34; width=&#34;95%&#34;/&gt; 
 &lt;/figure&gt;
  --&gt;
-&lt;img src=&#34;https://www.winja.site/img/nullcon_berlin2022/eventlogo.png&#34; width=&#34;100%&#34;/&gt;
-&lt;img src=&#34;https://www.winja.site/img/nullcon_berlin2022/prizes.jpg&#34; width=&#34;100%&#34;/&gt;</description>
+	&lt;img src=&#34;https://www.winja.site/img/nullcon_berlin2022/eventlogo.png&#34; width=&#34;100%&#34;/&gt;
+	&lt;img src=&#34;https://www.winja.site/img/nullcon_berlin2022/prizes.jpg&#34; width=&#34;100%&#34;/&gt;
+&lt;/a&gt;
+&lt;div class=&#34;col-md-8&#34; style=&#34;padding-top: 2rem;&#34;&gt;
+    &lt;h3&gt;Some More Prizes&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li style=&#34;padding-top: 1rem;&#34;&gt;Our &lt;strong&gt;TOP-5&lt;/strong&gt; online scorers will receive following as a token of appreciation&lt;/li&gt;
+      &lt;ul&gt;
+        &lt;li&gt;HackTheBox one-month access&lt;/li&gt;
+        &lt;li&gt;AVAST Ultimate License&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;li style=&#34;padding-top: 1rem;&#34;&gt;The &lt;strong&gt;NEXT-5&lt;/strong&gt; online scorers will receive following&lt;/li&gt;
+      &lt;ul&gt;
+        &lt;li&gt;AVAST Ultimate License&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;</description>
     </item>
     
   </channel>
