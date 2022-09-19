@@ -6,11 +6,7 @@
     <description>Recent content in Upcoming Events on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0530</lastBuildDate>
-    
-	<atom:link href="https://www.winja.site/upcoming-event/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0530</lastBuildDate><atom:link href="https://www.winja.site/upcoming-event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Winja CTF | Nullcon Berlin Edition | 09 April 2022</title>
       <link>https://www.winja.site/upcoming-event/upcoming/</link>
@@ -18,16 +14,14 @@
       
       <guid>https://www.winja.site/upcoming-event/upcoming/</guid>
       <description>&lt;a target=&#34;blank&#34; href=&#34;https://ctf.winja.site/register&#34;&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;https://www.winja.site/img/upcoming/click_to_register.svg&#34; width=&#34;30%&#34;/&gt; &lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://www.winja.site/img/upcoming/click_to_register.svg&#34; width=&#34;30%&#34;/&gt;&lt;figcaption&gt;
             &lt;h4&gt;https://ctf.winja.site/&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;/a&gt;
 &lt;a target=&#34;blank&#34; href=&#34;https://ctf.winja.site/register&#34;&gt;
-	&lt;!-- &lt;figure&gt;
-    &lt;img src=&#34;https://www.winja.site/img/c0c0n2021/winjaCTF_1200x628.jpg&#34; width=&#34;95%&#34;/&gt; 
+	&lt;!-- &lt;figure&gt;&lt;img src=&#34;https://www.winja.site/img/c0c0n2021/winjaCTF_1200x628.jpg&#34; width=&#34;95%&#34;/&gt;
 &lt;/figure&gt;
  --&gt;
 	&lt;img src=&#34;https://www.winja.site/img/nullcon_berlin2022/eventlogo.png&#34; width=&#34;100%&#34;/&gt;
