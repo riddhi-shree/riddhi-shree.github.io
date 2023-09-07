@@ -1,136 +1,229 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.winja.site/tags/ctf/</loc>
+    <lastmod>2023-09-23T10:30:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/nullcon/</loc>
+    <lastmod>2023-09-23T10:30:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/</loc>
+    <lastmod>2023-09-23T10:30:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/upcoming/</loc>
+    <lastmod>2023-09-23T10:30:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/</loc>
+    <lastmod>2023-09-23T10:30:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/tags/winja/</loc>
+    <lastmod>2023-09-23T10:30:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.winja.site/winja-ctf-nullcon-goa-2023/</loc>
+    <lastmod>2023-09-23T10:30:00+05:30</lastmod>
+  </url>
+  
   <url>
     <loc>https://www.winja.site/unplugged-sessions/</loc>
     <lastmod>2022-09-28T14:17:08+05:30</lastmod>
-  </url><url>
-    <loc>https://www.winja.site/</loc>
-    <lastmod>2022-09-28T14:17:08+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/unplugged-sessions/winja-unplugged/</loc>
     <lastmod>2022-09-28T14:17:08+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/2022/</loc>
     <lastmod>2022-04-09T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/android/</loc>
     <lastmod>2022-04-09T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/berlin/</loc>
     <lastmod>2022-04-09T14:12:32+05:30</lastmod>
-  </url><url>
-    <loc>https://www.winja.site/tags/ctf/</loc>
-    <lastmod>2022-04-09T14:12:32+05:30</lastmod>
-  </url><url>
-    <loc>https://www.winja.site/tags/nullcon/</loc>
-    <lastmod>2022-04-09T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/</loc>
     <lastmod>2022-04-09T14:12:32+05:30</lastmod>
-  </url><url>
-    <loc>https://www.winja.site/tags/</loc>
-    <lastmod>2022-04-09T14:12:32+05:30</lastmod>
-  </url><url>
-    <loc>https://www.winja.site/tags/winja/</loc>
-    <lastmod>2022-04-09T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-ctf-nullcon-berlin-09apr2022/</loc>
     <lastmod>2022-04-09T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/wicked6/</loc>
     <lastmod>2022-03-24T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-ctf-wicked6-24mar2022/</loc>
     <lastmod>2022-03-24T14:12:32+05:30</lastmod>
-  </url><url>
-    <loc>https://www.winja.site/tags/upcoming/</loc>
-    <lastmod>2022-03-09T00:00:00+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/upcoming-event/</loc>
     <lastmod>2022-03-09T00:00:00+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/upcoming-event/upcoming/</loc>
     <lastmod>2022-03-09T00:00:00+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/talk/</loc>
     <lastmod>2022-02-26T00:00:00+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-unplugged-26feb2022/</loc>
     <lastmod>2022-02-26T00:00:00+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-unplugged-19feb2022/</loc>
     <lastmod>2022-02-19T00:00:00+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-unplugged-05feb2022/</loc>
     <lastmod>2022-02-05T00:00:00+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-unplugged-29jan2022/</loc>
     <lastmod>2022-01-29T00:00:00+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-unplugged-22jan2022/</loc>
     <lastmod>2022-01-22T00:00:00+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/2021/</loc>
     <lastmod>2021-11-30T00:00:00+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-talks-30nov2021/</loc>
     <lastmod>2021-11-30T00:00:00+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/c0c0n/</loc>
     <lastmod>2021-11-12T16:05:31+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/online/</loc>
     <lastmod>2021-11-12T16:05:31+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-ctf-12nov2021-c0c0n/</loc>
     <lastmod>2021-11-12T16:05:31+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-talks-09sep2021/</loc>
     <lastmod>2021-09-09T00:00:00+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-talks-26aug2021/</loc>
     <lastmod>2021-08-26T00:00:00+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/2020/</loc>
     <lastmod>2021-03-06T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-ctf-06mar2021/</loc>
     <lastmod>2021-03-06T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/ctf4g/</loc>
     <lastmod>2020-12-19T23:24:18+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/seccon/</loc>
     <lastmod>2020-12-19T23:24:18+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-meets-ctf4g-19dec2020/</loc>
     <lastmod>2020-12-19T23:24:18+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/registration/</loc>
     <lastmod>2020-11-17T11:00:56+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/recent/</loc>
     <lastmod>2020-10-03T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-talks-03oct2020/</loc>
     <lastmod>2020-10-03T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-ctf-19sep2020/</loc>
     <lastmod>2020-09-19T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/tags/blog/</loc>
     <lastmod>2020-09-05T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-blogs-05sep2020/</loc>
     <lastmod>2020-09-05T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-talks-22aug2020/</loc>
     <lastmod>2020-08-22T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/past-events/winja-ctf-06mar2020/</loc>
     <lastmod>2020-03-06T14:12:32+05:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.winja.site/categories/</loc>
   </url>
+  
 </urlset>

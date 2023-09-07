@@ -6,14 +6,19 @@
     <description>Recent content in 2020 on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Mar 2021 14:12:32 +0530</lastBuildDate><atom:link href="https://www.winja.site/tags/2020/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 14:12:32 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.winja.site/tags/2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Winja CTF | Nullcon Goa 2021</title>
       <link>https://www.winja.site/past-events/winja-ctf-06mar2021/</link>
       <pubDate>Sat, 06 Mar 2021 14:12:32 +0530</pubDate>
       
       <guid>https://www.winja.site/past-events/winja-ctf-06mar2021/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://www.winja.site/img/nullcon2021/winjactf2021_nullcon_banner2.png&#34; width=&#34;100%&#34;/&gt;
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://www.winja.site/img/nullcon2021/winjactf2021_nullcon_banner2.png&#34; width=&#34;100%&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     

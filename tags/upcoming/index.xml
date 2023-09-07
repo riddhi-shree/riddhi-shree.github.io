@@ -6,7 +6,26 @@
     <description>Recent content in upcoming on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0530</lastBuildDate><atom:link href="https://www.winja.site/tags/upcoming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 10:30:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.winja.site/tags/upcoming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Winja CTF | Nullcon Goa Edition | 23 September 2023</title>
+      <link>https://www.winja.site/winja-ctf-nullcon-goa-2023/</link>
+      <pubDate>Sat, 23 Sep 2023 10:30:00 +0530</pubDate>
+      
+      <guid>https://www.winja.site/winja-ctf-nullcon-goa-2023/</guid>
+      <description>REGISTRATION Open
+REGISTRATION LINK https://ctf.winja.org/
+VENUE Birla Institute Of Technology And Science (BITS), Goa
+START &amp;amp; END DATE 23rd September 2023 at 10:30 IST to 17:30 IST
+SPONSOR 
+Greetings!
+Winja CTF is a hybrid event happening online as well as physically at Nullcon Goa 2023. For playing online the event is free however for participating physically one will require a conference pass (Student / Individual / Corporate)</description>
+    </item>
+    
     <item>
       <title>Winja CTF | Nullcon Berlin Edition | 09 April 2022</title>
       <link>https://www.winja.site/upcoming-event/upcoming/</link>
@@ -14,14 +33,16 @@
       
       <guid>https://www.winja.site/upcoming-event/upcoming/</guid>
       <description>&lt;a target=&#34;blank&#34; href=&#34;https://ctf.winja.site/register&#34;&gt;
-&lt;figure&gt;&lt;img src=&#34;https://www.winja.site/img/upcoming/click_to_register.svg&#34; width=&#34;30%&#34;/&gt;&lt;figcaption&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://www.winja.site/img/upcoming/click_to_register.svg&#34; width=&#34;30%&#34;/&gt; &lt;figcaption&gt;
             &lt;h4&gt;https://ctf.winja.site/&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;/a&gt;
 &lt;a target=&#34;blank&#34; href=&#34;https://ctf.winja.site/register&#34;&gt;
-	&lt;!-- &lt;figure&gt;&lt;img src=&#34;https://www.winja.site/img/c0c0n2021/winjaCTF_1200x628.jpg&#34; width=&#34;95%&#34;/&gt;
+	&lt;!-- &lt;figure&gt;
+    &lt;img src=&#34;https://www.winja.site/img/c0c0n2021/winjaCTF_1200x628.jpg&#34; width=&#34;95%&#34;/&gt; 
 &lt;/figure&gt;
  --&gt;
 	&lt;img src=&#34;https://www.winja.site/img/nullcon_berlin2022/eventlogo.png&#34; width=&#34;100%&#34;/&gt;

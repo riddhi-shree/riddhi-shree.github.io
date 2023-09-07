@@ -6,14 +6,34 @@
     <description>Recent content in winja on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2022 14:12:32 +0530</lastBuildDate><atom:link href="https://www.winja.site/tags/winja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 10:30:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.winja.site/tags/winja/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Winja CTF | Nullcon Goa Edition | 23 September 2023</title>
+      <link>https://www.winja.site/winja-ctf-nullcon-goa-2023/</link>
+      <pubDate>Sat, 23 Sep 2023 10:30:00 +0530</pubDate>
+      
+      <guid>https://www.winja.site/winja-ctf-nullcon-goa-2023/</guid>
+      <description>REGISTRATION Open
+REGISTRATION LINK https://ctf.winja.org/
+VENUE Birla Institute Of Technology And Science (BITS), Goa
+START &amp;amp; END DATE 23rd September 2023 at 10:30 IST to 17:30 IST
+SPONSOR 
+Greetings!
+Winja CTF is a hybrid event happening online as well as physically at Nullcon Goa 2023. For playing online the event is free however for participating physically one will require a conference pass (Student / Individual / Corporate)</description>
+    </item>
+    
     <item>
       <title>Winja CTF | Nullcon Berlin 2022</title>
       <link>https://www.winja.site/past-events/winja-ctf-nullcon-berlin-09apr2022/</link>
       <pubDate>Sat, 09 Apr 2022 14:12:32 +0530</pubDate>
       
       <guid>https://www.winja.site/past-events/winja-ctf-nullcon-berlin-09apr2022/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://www.winja.site/img/nullcon_berlin2022/android.svg&#34; width=&#34;300rem&#34;/&gt;
+      <description>&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.winja.site/img/nullcon_berlin2022/android.svg&#34; width=&#34;300rem&#34;/&gt; 
 &lt;/figure&gt;
 
 Nullcon happened for the first time outside India, in Berlin. Winja CTF event for Nullcon Berlin 2022 conference was sponsored by Android.&lt;/p&gt;</description>
@@ -115,7 +135,8 @@ Nullcon happened for the first time outside India, in Berlin. Winja CTF event fo
       <pubDate>Sat, 06 Mar 2021 14:12:32 +0530</pubDate>
       
       <guid>https://www.winja.site/past-events/winja-ctf-06mar2021/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://www.winja.site/img/nullcon2021/winjactf2021_nullcon_banner2.png&#34; width=&#34;100%&#34;/&gt;
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://www.winja.site/img/nullcon2021/winjactf2021_nullcon_banner2.png&#34; width=&#34;100%&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     

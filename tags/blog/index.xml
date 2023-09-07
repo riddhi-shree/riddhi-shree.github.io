@@ -6,7 +6,11 @@
     <description>Recent content in blog on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2020 14:12:32 +0530</lastBuildDate><atom:link href="https://www.winja.site/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Sep 2020 14:12:32 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.winja.site/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Winja Blogs | September 2020</title>
       <link>https://www.winja.site/past-events/winja-blogs-05sep2020/</link>
