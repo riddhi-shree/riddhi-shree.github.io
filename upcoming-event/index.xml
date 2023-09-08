@@ -6,47 +6,126 @@
     <description>Recent content in Upcoming Events on Winja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 23 Sep 2023 10:30:00 +0530</lastBuildDate>
     
 	<atom:link href="https://www.winja.site/upcoming-event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Winja CTF | Nullcon Berlin Edition | 09 April 2022</title>
+      <title>Winja CTF | Nullcon Goa Edition | 23 September 2023</title>
       <link>https://www.winja.site/upcoming-event/upcoming/</link>
-      <pubDate>Wed, 09 Mar 2022 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 23 Sep 2023 10:30:00 +0530</pubDate>
       
       <guid>https://www.winja.site/upcoming-event/upcoming/</guid>
-      <description>&lt;a target=&#34;blank&#34; href=&#34;https://ctf.winja.site/register&#34;&gt;
+      <description>&lt;a target=&#34;blank&#34; href=&#34;https://ctf.winja.org/&#34;&gt;
 &lt;figure&gt;
     &lt;img src=&#34;https://www.winja.site/img/upcoming/click_to_register.svg&#34; width=&#34;30%&#34;/&gt; &lt;figcaption&gt;
-            &lt;h4&gt;https://ctf.winja.site/&lt;/h4&gt;
+            &lt;h4&gt;https://ctf.winja.org/&lt;/h4&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;/a&gt;
-&lt;a target=&#34;blank&#34; href=&#34;https://ctf.winja.site/register&#34;&gt;
-	&lt;!-- &lt;figure&gt;
-    &lt;img src=&#34;https://www.winja.site/img/c0c0n2021/winjaCTF_1200x628.jpg&#34; width=&#34;95%&#34;/&gt; 
-&lt;/figure&gt;
- --&gt;
-	&lt;img src=&#34;https://www.winja.site/img/nullcon_berlin2022/eventlogo.png&#34; width=&#34;100%&#34;/&gt;
-	&lt;img src=&#34;https://www.winja.site/img/nullcon_berlin2022/prizes.jpg&#34; width=&#34;100%&#34;/&gt;
-&lt;/a&gt;
-&lt;div class=&#34;col-md-8&#34; style=&#34;padding-top: 2rem;&#34;&gt;
-    &lt;h3&gt;Some More Prizes&lt;/h3&gt;
-    &lt;ul&gt;
-      &lt;li style=&#34;padding-top: 1rem;&#34;&gt;Our &lt;strong&gt;TOP-5&lt;/strong&gt; online scorers will receive following as a token of appreciation&lt;/li&gt;
-      &lt;ul&gt;
-        &lt;li&gt;HackTheBox one-month access&lt;/li&gt;
-        &lt;li&gt;AVAST Ultimate License&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;li style=&#34;padding-top: 1rem;&#34;&gt;The &lt;strong&gt;NEXT-5&lt;/strong&gt; online scorers will receive following&lt;/li&gt;
-      &lt;ul&gt;
-        &lt;li&gt;AVAST Ultimate License&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;</description>
+&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;col-md-4&#34;&gt;
+        &lt;center&gt;
+            &lt;a href=&#34;https://twitter.com/winja_ctf?lang=en&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://www.winja.site/img/winja-logo-transparent.png&#34;
+                style=&#34;width: 10rem;&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+            &lt;a href=&#34;https://twitter.com/winja_ctf?lang=en&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://www.winja.site/img/icons/twitter.png&#34;
+            style=&#34;width: 1.5rem;&#34; /&gt;&lt;/a&gt;
+            &lt;a href=&#34;https://discord.gg/AawhaQy&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://www.winja.site/img/icons/discord.png&#34; style=&#34;width: 1.5rem;&#34; /&gt;&lt;/a&gt;
+            &lt;a href=&#34;https://www.facebook.com/WinjaCTF/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://www.winja.site/img/icons/facebook.png&#34;
+                    style=&#34;width: 1.5rem;&#34; /&gt;&lt;/a&gt;
+            &lt;a href=&#34;https://in.linkedin.com/public-profile/in/winja-community-56b7821b4&#34; target=&#34;_blank&#34;&gt;&lt;img
+                    src=&#34;https://www.winja.site/img/icons/linkedin.png&#34; style=&#34;width: 1.5rem;&#34; /&gt;&lt;/a&gt;
+            &lt;a href=&#34;https://www.youtube.com/user/nullcon/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://www.winja.site/img/icons/youtube.png&#34;
+            style=&#34;width: 1.5rem;&#34; /&gt;&lt;/a&gt;
+            &lt;/center&gt;
+        &lt;br&gt;
+
+&lt;h5 id=&#34;registration&#34;&gt;REGISTRATION&lt;/h5&gt;
+&lt;p&gt;Open&lt;/p&gt;
+&lt;h5 id=&#34;registration-link&#34;&gt;REGISTRATION LINK&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&#34;https://ctf.winja.org/&#34;&gt;https://ctf.winja.org/&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&#34;venue&#34;&gt;VENUE&lt;/h5&gt;
+&lt;p&gt;Birla Institute Of Technology And Science (BITS), Goa&lt;/p&gt;
+&lt;h5 id=&#34;start--end-date&#34;&gt;START &amp;amp; END DATE&lt;/h5&gt;
+&lt;p&gt;23rd September 2023 at 10:30 IST to 17:30 IST&lt;/p&gt;
+&lt;h5 id=&#34;sponsor&#34;&gt;SPONSOR&lt;/h5&gt;
+
+
+&lt;a href=&#34;https://www.salesforce.com/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://www.winja.site/img/nullcon2021/Salesforce.png&#34;  style=&#34;width: 10rem;&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;col-md-8&#34;&gt;
+
+&lt;p&gt;Greetings!&lt;/p&gt;
+&lt;p&gt;Winja CTF is a hybrid event happening online as well as physically at Nullcon Goa 2023. For playing online the event is free however for participating physically one will require a conference pass (Student / Individual / Corporate)&lt;/p&gt;
+&lt;h5 id=&#34;what-is-winja&#34;&gt;WHAT IS WINJA?&lt;/h5&gt;
+&lt;p&gt;A community focused on bringing women and men eye-to-eye with each other in the infosec industry. We help each and every individual to explore their potential in a comfortable environment and to bring out their true self without feeling intimidated by others.&lt;/p&gt;
+&lt;h5 id=&#34;prize-details&#34;&gt;PRIZE DETAILS&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;1st Winner (On-Site)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Apple iPad&lt;/li&gt;
+&lt;li&gt;Flipper Zero&lt;/li&gt;
+&lt;li&gt;Exclusive Winja and Nullcon Hamper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2nd Winner (On-Site)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Offensive Security &amp;lsquo;90-day Course and Cybersecurity Certification Exam Bundle for WEB-200 (OSWA) or SOC-200 (OSDA) or EXP-312 (OSMR)&lt;/li&gt;
+&lt;li&gt;1-month HackTheBox Subscription&lt;/li&gt;
+&lt;li&gt;Exclusive Winja and Nullcon Hamper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Winner (Online)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Offensive Security &amp;lsquo;90-day Course and Cybersecurity Certification Exam Bundle for WEB-200 (OSWA) or SOC-200 (OSDA) or EXP-312 (OSMR)
+Exclusive Winja and Nullcon Hamper&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Special Winner:&lt;/strong&gt; 
+1 Complimentary Nullcon Online Training Hands-On Session&lt;/p&gt;
+&lt;h5 id=&#34;participants-requirement&#34;&gt;PARTICIPANTS REQUIREMENT&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;Hardware requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A laptop with admin privileges&lt;/li&gt;
+&lt;li&gt;At least 20 GB of free space&lt;/li&gt;
+&lt;li&gt;Minimum 3GB Ram&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Software requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Operating System any of the following:&lt;/li&gt;
+&lt;li&gt;OSX, Win 7 and above, Ubuntu 12.0.4&lt;/li&gt;
+&lt;li&gt;VMware OR Virtual Box 4.x.x installed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6 id=&#34;categories-of-challenges&#34;&gt;CATEGORIES OF CHALLENGES&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;Web3&lt;/li&gt;
+&lt;li&gt;Source Code Review&lt;/li&gt;
+&lt;li&gt;Web&lt;/li&gt;
+&lt;li&gt;Forensics&lt;/li&gt;
+&lt;li&gt;Active Directory&lt;/li&gt;
+&lt;li&gt;PWN&lt;/li&gt;
+&lt;li&gt;Steganography&lt;/li&gt;
+&lt;li&gt;Cryptography&lt;/li&gt;
+&lt;li&gt;Reverse Engineering&lt;/li&gt;
+&lt;li&gt;OSINT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;winja-volunteers&#34;&gt;WINJA VOLUNTEERS&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Aravindha Hariharan M&lt;/li&gt;
+&lt;li&gt;Ashwin Kumar&lt;/li&gt;
+&lt;li&gt;Deepak Dhasmana&lt;/li&gt;
+&lt;li&gt;Purujeet&lt;/li&gt;
+&lt;li&gt;Nikhil Nair&lt;/li&gt;
+&lt;li&gt;Sandra Bino&lt;/li&gt;
+&lt;li&gt;Sanjay Das&lt;/li&gt;
+&lt;li&gt;Salman Asad&lt;/li&gt;
+&lt;li&gt;Shreya Pohekar&lt;/li&gt;
+&lt;li&gt;Siddhant Chouhan&lt;/li&gt;
+&lt;li&gt;Sneha Surana&lt;/li&gt;
+&lt;li&gt;Syed Modassir Ali&lt;/li&gt;
+&lt;li&gt;Yakshita Sharma&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     
   </channel>
